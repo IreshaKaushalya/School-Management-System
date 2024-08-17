@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="schoolmanagementsystem/src"/>
+	<classpathentry kind="lib" path="schoolmanagementsystem/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="schoolmanagementsystem/dist/lib/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="schoolmanagementsystem/dist/lib/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="schoolmanagementsystem/dist/schoolmanagementsystem.jar"/>
+	<classpathentry kind="output" path="schoolmanagementsystem/build/classes"/>
+</classpath>
